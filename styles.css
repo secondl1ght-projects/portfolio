@@ -71,3 +71,7 @@ a:hover {
   color: #fff;
   border-radius: .75rem;
 }
+
+.calendar {
+  overflow: auto;
+}
