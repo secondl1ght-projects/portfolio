@@ -19,6 +19,20 @@ a:hover {
   text-decoration: none;
 }
 
+#coinos:hover, #paynym:hover {
+  text-decoration: underline;
+}
+
+#coinos {
+  color: #faf601;
+  text-decoration: none;
+}
+
+#paynym {
+  color: #00acc1;
+  text-decoration: none;
+}
+
 /* Images */
 #certificates img {
   width: 75%;
