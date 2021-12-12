@@ -55,11 +55,12 @@ I will continue to update this site with new information as I create more projec
 
 ## Acknowledgements
 
-
 -   Icons by https://www.fontawesome.com and https://icons.getbootstrap.com/
 -   Coded using Atom text editor
 -   GitHub calendar by https://github.com/Bloggify/github-calendar
 -   https://www.w3schools.com/ for help with some components
+-   Photo by <a href="https://unsplash.com/@jakeallenmedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jake Allen</a> on <a href="https://unsplash.com/s/photos/atm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-   Photo by <a href="https://unsplash.com/@matthardy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Matt Hardy</a> on <a href="https://unsplash.com/s/photos/ocean?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## Contact
 
