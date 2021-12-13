@@ -59,8 +59,9 @@ I will continue to update this site with new information as I create more projec
 -   Coded using Atom text editor
 -   GitHub calendar by https://github.com/Bloggify/github-calendar
 -   https://www.w3schools.com/ for help with some components
--   Photo by <a href="https://unsplash.com/@jakeallenmedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jake Allen</a> on <a href="https://unsplash.com/s/photos/atm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
--   Photo by <a href="https://unsplash.com/@matthardy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Matt Hardy</a> on <a href="https://unsplash.com/s/photos/ocean?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-   Photo by <a href="https://unsplash.com/@at8eqeq3?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dmitry Grigoriev</a> on <a href="https://unsplash.com/s/photos/bee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-   Photo by <a href="https://unsplash.com/@silasbaisch?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Silas Baisch</a> on <a href="https://unsplash.com/s/photos/ocean?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+-   https://twitter.com/KafeMelnik/status/1441394770677432321
 
 ## Contact
 
