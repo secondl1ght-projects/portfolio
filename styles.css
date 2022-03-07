@@ -4,22 +4,23 @@
   align-items: center;
 }
 
-.icon-link>.bi {
-  margin-top: .125rem;
-  margin-left: .125rem;
-  transition: transform .25s ease-in-out;
+.icon-link > .bi {
+  margin-top: 0.125rem;
+  margin-left: 0.125rem;
+  transition: transform 0.25s ease-in-out;
   fill: currentColor;
 }
 
-.icon-link:hover>.bi {
-  transform: translate(.25rem);
+.icon-link:hover > .bi {
+  transform: translate(0.25rem);
 }
 
 a:hover {
   text-decoration: none;
 }
 
-#coinos:hover, #paynym:hover {
+#coinos:hover,
+#paynym:hover {
   text-decoration: underline;
 }
 
@@ -36,6 +37,10 @@ a:hover {
 #professional a:hover {
   text-decoration: underline;
   color: white;
+}
+
+#tor a:hover {
+  color: #59316b;
 }
 
 /* Images */
@@ -61,7 +66,7 @@ a:hover {
 
 /* Animation */
 #dash {
-  border-right: .05em solid;
+  border-right: 0.05em solid;
   animation: caret 1s steps(1) infinite;
 }
 
@@ -74,14 +79,15 @@ a:hover {
 /* Misc */
 .b-divider {
   height: 3rem;
-  background-color: rgba(0, 0, 0, .1);
-  border: solid rgba(0, 0, 0, .15);
+  background-color: rgba(0, 0, 0, 0.1);
+  border: solid rgba(0, 0, 0, 0.15);
   border-width: 1px 0;
-  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, 0.1),
+    inset 0 0.125em 0.5em rgba(0, 0, 0, 0.15);
 }
 
 .bi {
-  vertical-align: -.125em;
+  vertical-align: -0.125em;
   fill: currentColor;
 }
 
@@ -94,7 +100,7 @@ a:hover {
   margin-bottom: 1rem;
   font-size: 2rem;
   color: #fff;
-  border-radius: .75rem;
+  border-radius: 0.75rem;
 }
 
 .calendar {
