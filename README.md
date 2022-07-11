@@ -1,3 +1,5 @@
+# THIS REPO IS NOW ARCHIVED
+
 # SECONDL1GHT'S PORTFOLIO SITE
 
 This is my working project for my personal portfolio, I am an aspiring front-end developer interested in contributing to bitcoin and other freedom-focused projects.
